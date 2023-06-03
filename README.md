@@ -31,3 +31,4 @@ Set up the development environment on your Standard Ubuntu 20.04 LTS/ operating 
 Read and understand the RSA algorithm, its principles, and prime factorization.
 Implement a function to generate an RSA key pair, including selecting prime numbers, computing modulus, and finding an exponent value.
 
+
